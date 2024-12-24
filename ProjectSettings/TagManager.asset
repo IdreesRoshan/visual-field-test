@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Balloon
+  - Fixation Point
+  - b1
+  - b2
+  - b3
+  - b4
+  - b5
+  - b6
+  - c1
+  - c2
+  - c3
+  - c4
+  - c5
+  - c6
+  - b21
+  - b22
+  - b23
+  - b24
+  - b25
+  - b26
+  - b31
+  - b32
+  - b33
+  - b34
+  - b35
+  - b36
+  - c21
+  - c22
+  - c23
+  - c24
+  - c25
+  - c26
+  - c31
+  - c32
+  - c33
+  - c34
+  - c35
+  - c36
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
