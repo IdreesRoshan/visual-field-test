@@ -1,5 +1,5 @@
 # Visual Field Test
-Group project in collaboration with KL2C
+Group project in collaboration with [KL2C](https://www.kl2c.co.uk/)
 
 ## Overview
 This project is designed to carry out a visual field test for children which is used in the manaagement of children with brain tumours. The test is designed to be engaging for young children and emulate a game to maintain their focus. The examinee must stay a certain distance from the screen, measured by a range finder, and each eye is tested one at a time using either an eye patch or a hand.
